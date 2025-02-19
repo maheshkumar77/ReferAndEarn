@@ -9,7 +9,7 @@ const Referald = () => {
 
   return (
     <div className=' h-screen w-full flex justify-center  items-center flex-col lg:gap-10 mt-5'>
-      <h1 className='font-bold sm:text-xl text-3xl mt-5'>What Are The <span className='text-blue-400'>Referral Benefits?</span> </h1>
+      <h1 className='font-bold sm:text-xl lg:text-4xl text-2xl'>What Are The <span className='text-blue-400'>Referral Benefits?</span> </h1>
       <div className=" w-[60%] flex justify-between">
         <p className=" flex float-end gap-1">Enroled <MoveDotButton/>   </p>
       </div>

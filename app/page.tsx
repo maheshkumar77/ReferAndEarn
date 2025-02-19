@@ -1,3 +1,4 @@
+import Foter from "./component/foter";
 import Freqntly from "./component/frequntly";
 import Hero from "./component/hero";
 import Navbar from "./component/navbar";
@@ -15,6 +16,7 @@ export default function Home() {
      <Raferb/>
      <Referald/>
      <Freqntly/>
+     <Foter/>
     </div>
   );
 }
